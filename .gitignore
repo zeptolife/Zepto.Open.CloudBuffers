@@ -1,0 +1,18 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+.vs/
+*.csproj.user
+/UpgradeLog3.htm
+/UpgradeLog2.htm
+/UpgradeLog.htm
+/docsync.log
+*.bak
+*/obj/
+*/bin/
+*.nuget.targets
+*.nuget.props
+*.lock.json
+/Bin
