@@ -2,7 +2,7 @@
 
 namespace CloudBuffers.Common
 {
-    public class Class1
+    public interface IIotBinaryBlob : IBinaryBlob
     {
     }
 }
